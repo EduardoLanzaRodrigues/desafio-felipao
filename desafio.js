@@ -8,5 +8,5 @@ if (xp < 1000) {
 } else if (xp > 5000 && xp <= 8000) {
     console.log(" O Herói " + nomeDoPersonagem + " está no nível de " + "Platina Diamante")
 } else if (xp > 8000 && xp <= 9000) {
-    console.log(" O Herói" + nomeDoPersonagem + " está no nível " + "Ascendente")
+    console.log(" O Herói " + nomeDoPersonagem + " está no nível " + "Ascendente")
 }
